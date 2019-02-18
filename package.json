@@ -1,0 +1,19 @@
+{
+  "name": "newyork",
+  "version": "1.0.0",
+  "description": "wide range of project",
+  "main": "index.html",
+  "repository": "https://github.com/haniweb/NewYork.git",
+  "author": "by hani mechi",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.14.0"
+  },
+  "scripts": {
+    "start": "http-server -p 3000 -o"
+    
+  }
+}
