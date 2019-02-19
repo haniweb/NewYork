@@ -65,3 +65,31 @@ list-style: none;
     
 
 }
+.widget{
+    background-color: #72ECD7;
+    height: 300px;
+}
+.wistyle{
+    padding-top:40px;
+    font-size: 40px;
+    color:white;
+    text-align: center;
+    letter-spacing: 3px;}
+   
+.wistyle2{
+   padding-top:55px;
+   font-size: 40px;
+   color:white;
+   text-align: center;
+   letter-spacing: 3px;}
+.sectionpos{
+    padding-top: 100px;
+    color: rgb(172, 167, 167);
+    letter-spacing: 1px;
+}
+.sectionpos2{
+    padding-top: 100px;
+    color: rgb(38, 39, 53);
+    letter-spacing: 1px;
+    font-size: 46px;
+}
